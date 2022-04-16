@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaodinizgit
 - 👀 I’m interested in program, contribute and learn.
-- 🌱 I’m currently studying at CS50x 2022, JavaScript and C.
+- 🌱 I’m currently studying at CS50x online 2022, JavaScript and C.
 - 💞️ I’m looking to collaborate on opensource projects
 
 <!---
